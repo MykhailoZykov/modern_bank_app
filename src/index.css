@@ -123,6 +123,7 @@
 
 .feedback-card:hover {
   background: var(--black-gradient);
+  transform: scale(1.1);
 }
 
 .blue__gradient {

@@ -40,7 +40,7 @@ const Footer = () => (
         ))}
       </div>
     </div>
-    <div className="w-full flex justify-between items-center md:flex-row flex-col pt-6 border-t-[1px] border-t-[#3f3e45]">
+    <div className="w-full flex justify-between items-center md:flex-row flex-col pt-6 border-t-[1px] border-t-[#3b0944]">
       <p className="font-poppins font-normal text-[18px] text-center leading-[27px] text-white">
         2024 HooBank. All Rights Reserved.
       </p>
